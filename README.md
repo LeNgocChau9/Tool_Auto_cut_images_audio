@@ -42,7 +42,7 @@ Dự án này là sản phẩm cá nhân do sinh viên viết trong quá trình 
 Rất mong nhận được sự thông cảm và mọi ý kiến đóng góp, báo lỗi, hoặc góp ý cải thiện từ cộng đồng để công cụ ngày một hoàn thiện hơn.
 
 **Liên hệ & Ủng hộ tác giả tại:**
-- 📧 **Email:** [lengocchau1072006@gmail.com](mailto:lengocchau1072006@gmail.com)
+- 📧 **Email:** [lengocchau15072006@gmail.com](mailto:lengocchau15072006@gmail.com)
 - 🔴 **YouTube:** [NixPaint](https://www.youtube.com/@NixPaint)
 - 🐙 **GitHub:** [LeNgocChau9](https://github.com/LeNgocChau9)
 
